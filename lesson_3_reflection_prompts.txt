@@ -34,7 +34,12 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Colaborating with GitHub seems the best option for big projects with many 
+	colaborators that have different permissions for colaborate. And many times
+	they are not much regulate collaborators.
+	Git is more direct method and similar to other version control systems used
+	in my project
+	
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
