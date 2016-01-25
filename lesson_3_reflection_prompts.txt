@@ -44,4 +44,12 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+	I am supproter of working in branches for everything. One branch for person 
+	and functionality, if multiple people are workin in the same functionality 
+	I think all shoudl work in different branches and then merge on one branch 
+	different from master and when the funtionality is tested and aproved then
+	merged into master. 
+	
+	So I think working in branches is the best approach for colaborative projects
+	even if it could be a bit slower than having no branches or less number of them
+	
